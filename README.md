@@ -12,7 +12,8 @@ A desktop application built with **PyQt5** to validate EDI 835 files.
 
 ## 🖼️ GUI Preview
 
-![App Logo](logo.png)
+![App Logo] 
+You Can Give your preferred image
 
 ## 📦 Requirements
 
@@ -26,5 +27,7 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 
-Developed by **Kishore Raj K** 
+## ✨ Author
+
+Developed by Kishore Raj K
 [LinkedIn] (https://www.linkedin.com/in/kishore-raj-k-9a482a310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub] (https://github.com/Kishoreraj07)
