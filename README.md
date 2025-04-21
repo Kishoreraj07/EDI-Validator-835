@@ -24,7 +24,6 @@ You Can Give your preferred image
 
 Install dependencies with:
 
-```bash
 pip install -r requirements.txt
 
 
