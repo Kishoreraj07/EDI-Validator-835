@@ -25,3 +25,6 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+
+Developed by **Kishore Raj K** 
+[LinkedIn] (https://www.linkedin.com/in/kishore-raj-k-9a482a310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub] (https://github.com/Kishoreraj07)
