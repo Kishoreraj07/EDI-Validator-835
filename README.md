@@ -1,0 +1,27 @@
+# 🧾 EDI 835 Validator Tool
+
+A desktop application built with **PyQt5** to validate EDI 835 files.
+
+## 🚀 Features
+
+- Load and validate a single EDI 835 file
+- Highlight invalid fields in red in the GUI
+- Validate multiple files at once and generate a summary `.xlsx`
+- Export logs or summaries to Excel
+- Simple UI with custom logo
+
+## 🖼️ GUI Preview
+
+![App Logo](logo.png)
+
+## 📦 Requirements
+
+- Python 3.x
+- PyQt5
+- pandas
+- openpyxl
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
